@@ -34,12 +34,12 @@ img{
 
 @font-face {
   font-family: young-serif;
-  src: url(young-serif/YoungSerif-Regular.ttf) format('young-serif');
+  src: url("../young-serif/YoungSerif-Regular.ttf") format('young-serif');
 }
 
 @font-face {
   font-family: outfit;
-  src: url(outfit/Outfit-VariableFont_wght.ttf) format('outfit');
+  src: url("../outfit/Outfit-VariableFont_wght.ttf") format('outfit');
 }
 body{
   background-color: rgb(255, 255, 255);
