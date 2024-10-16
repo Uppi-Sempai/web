@@ -32,15 +32,11 @@ img{
   width:100%
 }
 
-@font-face {
-  font-family: young-serif;
-  src: url("../young-serif/YoungSerif-Regular.ttf") format('young-serif');
-}
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 
-@font-face {
-  font-family: outfit;
-  src: url("../outfit/Outfit-VariableFont_wght.ttf") format('outfit');
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
 body{
   background-color: rgb(255, 255, 255);
 } 
